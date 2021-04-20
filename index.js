@@ -11,7 +11,7 @@
 //Khai báo toàn bộ thư viện cần dùng
 const fs = require('fs');
 const Discord = require('discord.js');
-const prefix = huấn!
+const prefix = "huấn!"
 const token = "kolammadoicoanthianc**and**bu****"
 const Canvas = require('canvas')
 
