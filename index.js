@@ -13,7 +13,6 @@ const fs = require('fs');
 const Discord = require('discord.js');
 const prefix = "huấn!"
 const token = "kolammadoicoanthianc**and**bu****"
-const Canvas = require('canvas')
 
 //Khai báo các hàm thuộc Discord.js
 const client = new Discord.Client();
